@@ -12,7 +12,7 @@ function Radio(mode) {
   };
 }
 
-let fmRadio = Radio('fm');
+let amRadio = Radio('am');
 
 fmRadio.on;
 //undefined
