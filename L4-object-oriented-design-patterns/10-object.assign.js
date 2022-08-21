@@ -10,6 +10,6 @@ const otter = {
   feet: 'webbed'
 };
 
-const platypus = Object.assign({}, duck, beaver, otter);
+const platypus = Object.assign({}, duck, otter, beaver);
 
 console.log(platypus);
